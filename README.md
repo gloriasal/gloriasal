@@ -27,32 +27,32 @@ Here are some ideas to get you started:
 
 ### <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"><i><b>&nbsp;Git stats</b></i>
 <p align="center">
-  <a href="https://github.com/tanonileandro">
+  <a href="https://github.com/gloriasal">
     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanonileandro&layout=compact&langs_count=10&theme=dark&hide_border=true&hide_title=True"/>
   </a>
 </p>
 	
 <p align="center">
- <a href="https://github.com/tanonileandro">
-  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanonileandro&theme=dark&hide_border=true&hide_title=True"/>
+ <a href="https://github.com/gloriasal">
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gloriasal&theme=dark&hide_border=true&hide_title=True"/>
  </a>
 </p>
 <hr>
 <p align="center">
-  <a href="https://www.linkedin.com/in/leandro-tanoni/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/franco-garcia-13ba53155/" target="blank"><img align="center"
       src="https://img.icons8.com/fluency/48/000000/linkedin.png"
       alt="adam pithewan" height="40" style="margin-right: 50px;"/></a>
-  <a href="https://www.facebook.com/leandro.tanoni.5" target="blank"><img align="center"
+  <a href="https://www.facebook.com/francoexequiel.garcia/" target="blank"><img align="center"
       src="https://img.icons8.com/fluency/48/000000/facebook.png"
       alt="adam pithen wala" height="40" style="margin-right: 50px; border-radius: 30px;"/></a>
-  <a href="https://www.instagram.com/tanonileandro/" target="blank"><img align="center"
+  <a href="https://www.instagram.com/franco.garcia1/" target="blank"><img align="center"
       src="https://img.icons8.com/fluency/48/000000/instagram-new.png"
       alt="_._.adam._" height="40" style="margin-right: 50px;"/></a>
-  <a href = "mailto: tanoni44@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" height="40"/></a>
+  <a href = "mailto: francoexequiel.garcia150@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" height="40"/></a>
 </p>
 <p align="center">
-	<a href="https://github.com/tanonileandro">
-		<img src="https://komarev.com/ghpvc/?username=tanonileandro&label=Profile%20views&color=0e75b6&style=flat" alt="tanonileandro" />
+	<a href="https://github.com/gloriasal">
+		<img src="https://komarev.com/ghpvc/?username=tanonileandro&label=Profile%20views&color=0e75b6&style=flat" alt="gloria sal" />
 	</a>
 </p>
 <hr>
